@@ -41,7 +41,7 @@ The YouTube Timestamp Bookmarker extension should now appear in your list of ext
 ## Contributions
 Any Contributions are welcomed!! Just fork the repo and create a pull request.
 
-##Copyright
+## Copyright
 © 2024 Ayush Chandra. All rights reserved.
 
 
